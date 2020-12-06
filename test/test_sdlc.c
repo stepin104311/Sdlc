@@ -1,4 +1,4 @@
-/*#include "unity.h"*/
+#include "unity.h"
 #include "sdlc.h"
 /* Required by the unity test framework */
 void setUp(){}
