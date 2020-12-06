@@ -50,7 +50,7 @@ void test_squareroot(void) {
 }
 
 
-void test_inverse(void) {
+void test_reciprocal(void) {
   CU_ASSERT(0.1== reciprocal(10));
   
   /* Dummy fail*/
