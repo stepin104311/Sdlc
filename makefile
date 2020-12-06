@@ -1,6 +1,6 @@
 SRC = unity/unity.c\
-src/attendance.c\
-test/test_attendance.c\
+src/sdlc.c\
+test/test_sdlc.c\
 main.c
 
 INC = -Iunity\
