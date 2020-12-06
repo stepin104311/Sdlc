@@ -1,5 +1,5 @@
-#include "../unity/unity.h"
-#include "../inc/sdlc.h"
+#include "unity.h"
+#include "sdlc.h"
 /* Required by the unity test framework */
 void setUp(){}
 /* Required by the unity test framework */
